@@ -75,3 +75,5 @@ con : <br>
 multi-linked list bentuk IV digunakan untuk merepresentasikan dan menjamin hubungan 1-1<br>
 contoh relasi : Orang (parent) - Passport (child)<br>
 bentuk relasi : pointer parent di elemen child dan pointer child di elemen parent<br>
+
+-dini14
